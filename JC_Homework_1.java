@@ -2,7 +2,7 @@
  * Java Core. Homework for Lesson 1
  *
  * @author Marina Dumcheva
- * @version 13.12.2021
+ * @version 20.12.2021
  */
 
 import java.util.Scanner;
