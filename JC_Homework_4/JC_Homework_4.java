@@ -1,5 +1,12 @@
 package java_core.lesson_4;
 
+/**
+ * Java Core. Homework for Lesson 4
+ *
+ * @author Marina Dumcheva
+ * @version 09.01.2022
+ */
+
 import java.util.*;
 
 public class JC_Homework_4 {
